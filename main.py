@@ -3,10 +3,10 @@
 print("Welcome to the Smoothie Shop!")
 
 # TODO: Ask the user for their name using input()
-name = input ("What is your name?")
+name = input("What is your name?")
 
 # TODO: Ask how many smoothies they want to buy
-smoothies = input ("How many smoothies would you like to buy?")
+smoothies = input("How many smoothies would you like to buy?")
 
 # TODO: Convert the number of smoothies to an integer
 smoothies = int(smoothies)
